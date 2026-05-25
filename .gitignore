@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Claude/local workspace settings
+.claude/
+
+# Logs and temporary files
+*.log
+.tmp/
+tmp/
